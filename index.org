@@ -1,19 +1,24 @@
+#+AUTHOR: Christian Graulund
+#+TITLE: Homepage of Christian Graulund
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.2 (<a href="https://orgmode.org">Org</a> mode 9.1.9)
+#+DESCRIPTION: The personal webpage of Christian Graulund
+#+LANGUAGE: en
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:nil todo:t |:t
 #+OPTIONS: html-link-use-abs-url:nil html-postamble:auto
 #+OPTIONS: html-preamble:t html-scripts:t html-style:t
-#+OPTIONS: html5-fancy:nil tex:t
+#+OPTIONS: html5-fancy:nil
 #+HTML_DOCTYPE: xhtml-strict
 #+HTML_CONTAINER: div
-#+DESCRIPTION: The personal webpage of Christian Graulund
-#+KEYWORDS:
 #+HTML_LINK_HOME: https://chgrau.github.io
 #+HTML_LINK_UP:
 #+HTML_MATHJAX: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML
 #+HTML_HEAD: <style type="text/css">body{margin:40pxauto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:010px}h1,h2,h3{line-height:1.2}</style>
 #+HTML_HEAD_EXTRA:
-#+TITLE: Homepage of Christian Graulund
-#+SUBTITLE: 
 #+INFOJS_OPT:
-#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.2 (<a href="https://orgmode.org">Org</a> mode 9.1.9)
 #+LATEX_HEADER:
 
 I am a PhD student at ITU as part of the [[http:pls.itu.dk][Programming, Logic and
