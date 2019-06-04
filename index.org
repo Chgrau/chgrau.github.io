@@ -4,7 +4,7 @@
 #+DESCRIPTION: The personal webpage of Christian Graulund
 #+LANGUAGE: en
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
-#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: author:t broken-links:nil c:nil creator:t
 #+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
 #+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
 #+OPTIONS: timestamp:t title:t toc:nil todo:t |:t
@@ -28,13 +28,15 @@ programming.
 * Research
 ** Papers
    - P. Bahr, C. Graulund and R.E. Møgelberg: /Simply RaTT: A
-   Fitch-style Modal Calculus for Reactive Programming./
-   Submitted 2019. [[https:arxiv.org/abs/1903.05876][arXiv]]
+     Fitch-style Modal Calculus for Reactive Programming/.
+     Submitted 2019. [[https:arxiv.org/abs/1903.05876][arXiv]]
 ** Dissertations
-   - C. Graulund: /Lambda Calculus for Reactive Programming./ Master
-   Thesis, IT University of Copenhagen, 2018.
+   - C. Graulund: /Lambda Calculus for Reactive Programming/. Master
+     Thesis, IT University of Copenhagen, 2018.
    - C. Graulund: /On Automata-Theoretic Characterizations of Regular
-   Expressions as Types./, Bachelor Thesis, University of Copenhagen, 2015.
+     Expressions as Types/. Bachelor Thesis, University of
+     Copenhagen, 2015.
+
 
 
 
