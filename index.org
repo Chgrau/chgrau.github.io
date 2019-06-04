@@ -3,16 +3,16 @@
 #+OPTIONS: html5-fancy:nil tex:t
 #+HTML_DOCTYPE: xhtml-strict
 #+HTML_CONTAINER: div
-#+DESCRIPTION:
+#+DESCRIPTION: The personal webpage of Christian Graulund
 #+KEYWORDS:
-#+HTML_LINK_HOME:
+#+HTML_LINK_HOME: https://chgrau.github.io
 #+HTML_LINK_UP:
-#+HTML_MATHJAX:
-#+HTML_HEAD:
+#+HTML_MATHJAX: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML
+#+HTML_HEAD: <style type="text/css">body{margin:40pxauto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:010px}h1,h2,h3{line-height:1.2}</style>
 #+HTML_HEAD_EXTRA:
-#+SUBTITLE:
+#+TITLE: Homepage of Christian Graulund
+#+SUBTITLE: 
 #+INFOJS_OPT:
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.2 (<a href="https://orgmode.org">Org</a> mode 9.1.9)
 #+LATEX_HEADER:
 
-This is a test. 
