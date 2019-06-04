@@ -20,6 +20,19 @@
 I am a PhD student at ITU as part of the [[http:pls.itu.dk][Programming, Logic and
 Semantics Group]]. I work on creating type systems for reactive
 programming.
+
+* Research
+** Papers
+   - P. Bahr, C. Graulund and R.E. Møgelberg: /Simply RaTT: A
+   Fitch-style Modal Calculus for Reactive Programming./
+   Submitted 2019. [[https:arxiv.org/abs/1903.05876][arXiv]]
+** Dissertations
+   - C. Graulund: /Lambda Calculus for Reactive Programming./ Master
+   Thesis, IT University of Copenhagen, 2018.
+   - C. Graulund: /On Automata-Theoretic Characterizations of Regular
+   Expressions as Types./, Bachelor Thesis, University of Copenhagen, 2015.
 #+END_CENTER
+
+
 
 
