@@ -42,3 +42,12 @@ programming.
      [[https://github.com/UniMath/UniMath/pull/840][Posets are Univalent]],
      [[https://github.com/UniMath/UniMath/pull/855][Functor Coalgebras]] and
      [[https://github.com/UniMath/UniMath/pull/1206][Non-wellfounded trees]].
+
+* Contact
+Office 4C15
+IT University of Copenhagen
+Rued Langgaards Vej 7
+2300 København S
+
+Work e-mail: cgra@itu.dk
+Private e-mail: christiangraulund@gmail.com
