@@ -29,15 +29,16 @@ programming.
 ** Papers
    - P. Bahr, C. Graulund and R.E. Møgelberg: /Simply RaTT: A
      Fitch-style Modal Calculus for Reactive Programming/.
-     Submitted 2019. [[https:arxiv.org/abs/1903.05876][arXiv]]
+     Submitted 2019. [[http:arxiv.org/abs/1903.05876][arXiv]]
 ** Dissertations
    - C. Graulund: /Lambda Calculus for Reactive Programming/. Master
      Thesis, IT University of Copenhagen, 2018.
    - C. Graulund: /On Automata-Theoretic Characterizations of Regular
      Expressions as Types/. Bachelor Thesis, University of
      Copenhagen, 2015.
-
-
-
-
-
+** Other
+   - Addition to the [[https://github.com/UniMath/UniMath][UniMath]] library:
+     [[https://github.com/UniMath/UniMath/pull/824][Categories from Preorders]],
+     [[https://github.com/UniMath/UniMath/pull/840][Posets are Univalent]],
+     [[https://github.com/UniMath/UniMath/pull/855][Functor Coalgebras]] and
+     [[https://github.com/UniMath/UniMath/pull/1206][Non-wellfounded trees]].
