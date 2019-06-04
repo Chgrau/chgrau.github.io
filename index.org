@@ -15,8 +15,8 @@
 #+HTML_CONTAINER: div
 #+HTML_LINK_HOME: https://chgrau.github.io
 #+HTML_LINK_UP:
-#+HTML_MATHJAX: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML
-#+HTML_HEAD: <style type="text/css">body{margin:40pxauto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:010px}h1,h2,h3{line-height:1.2}</style>
+#+HTML_MATHJAX:
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+HTML_HEAD_EXTRA:
 #+INFOJS_OPT:
 #+LATEX_HEADER:
