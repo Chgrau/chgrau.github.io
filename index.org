@@ -16,7 +16,6 @@
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.2 (<a href="https://orgmode.org">Org</a> mode 9.1.9)
 #+LATEX_HEADER:
 
-#+BEGIN_CENTER
 I am a PhD student at ITU as part of the [[http:pls.itu.dk][Programming, Logic and
 Semantics Group]]. I work on creating type systems for reactive
 programming.
@@ -31,7 +30,6 @@ programming.
    Thesis, IT University of Copenhagen, 2018.
    - C. Graulund: /On Automata-Theoretic Characterizations of Regular
    Expressions as Types./, Bachelor Thesis, University of Copenhagen, 2015.
-#+END_CENTER
 
 
 
