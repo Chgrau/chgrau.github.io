@@ -44,10 +44,6 @@ programming.
      [[https://github.com/UniMath/UniMath/pull/1206][Non-wellfounded trees]].
 
 * Contact
-Office 4C15
-IT University of Copenhagen
-Rued Langgaards Vej 7
-2300 København S
-
-Work e-mail: cgra@itu.dk
-Private e-mail: christiangraulund@gmail.com
+- Office 4C15, ITU
+- Work e-mail: cgra@itu.dk
+- Private e-mail: christiangraulund@gmail.com
