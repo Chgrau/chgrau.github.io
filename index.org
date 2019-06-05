@@ -29,7 +29,7 @@ programming.
 ** Papers
    - P. Bahr, C. Graulund and R.E. Møgelberg: /Simply RaTT: A
      Fitch-style Modal Calculus for Reactive Programming/.
-     Submitted 2019. [[http:arxiv.org/abs/1903.05876][arXiv]]
+     Submitted 2019. [[http:arxiv.org/abs/1903.05879][arXiv]]
 ** Dissertations
    - C. Graulund: /Lambda Calculus for Reactive Programming/. Master
      Thesis, IT University of Copenhagen, 2018.
