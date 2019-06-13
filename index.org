@@ -36,6 +36,9 @@ programming.
    - C. Graulund: /On Automata-Theoretic Characterizations of Regular
      Expressions as Types/. Bachelor Thesis, University of
      Copenhagen, 2015.
+** Talks
+   - Simply RaTT: A Fitch-style Modal Calculus for Reactive
+     Programming without Leaks, TYPES2019, [[file:Types19.pdf][PDF]]
 ** Other
    - Addition to the [[https://github.com/UniMath/UniMath][UniMath]] library:
      [[https://github.com/UniMath/UniMath/pull/824][Categories from Preorders]],
