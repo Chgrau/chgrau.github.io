@@ -21,15 +21,18 @@
 #+INFOJS_OPT:
 #+LATEX_HEADER:
 
-I am a PhD student at ITU as part of the [[http:pls.itu.dk][Programming, Logic and
-Semantics Group]]. I work on creating type systems for reactive
-programming.
+I am a PhD student at ITU as part of the
+[[http:pls.itu.dk][Programming, Logic and Semantics Group]]. I work on
+creating type systems for reactive programming.
 
 * Research
 ** Papers
+   - P. Bahr, C. Graulund and R.E. Møgelberg: /Diamonds are not
+     forever: Liveness in Reactive Programming with Guarded
+     Recursion/. Submitted to POPL20. [[https://arxiv.org/abs/2003.03170][arXiv]]
    - P. Bahr, C. Graulund and R.E. Møgelberg: /Simply RaTT: A
      Fitch-style Modal Calculus for Reactive Programming/.
-     Submitted 2019. [[http:arxiv.org/abs/1903.05879][arXiv]]
+     ICFP 2019. [[http:arxiv.org/abs/1903.05879][arXiv]]
 ** Dissertations
    - C. Graulund: /Lambda Calculus for Reactive Programming/. Master
      Thesis, IT University of Copenhagen, 2018.
@@ -38,13 +41,13 @@ programming.
      Copenhagen, 2015.
 ** Talks
    - Simply RaTT: A Fitch-style Modal Calculus for Reactive
-     Programming without Leaks, TYPES2019, [[file:Types2019.pdf][PDF]]
+     Programming without Leaks, ICFP 2019, [[https://www.youtube.com/watch?v=PnzsMKJivsk][video]]
+   - Simply RaTT: A Fitch-style Modal Calculus for Reactive
+     Programming without Leaks, TYPES 2019, [[file:Types2019.pdf][PDF]]
 ** Other
-   - Addition to the [[https://github.com/UniMath/UniMath][UniMath]] library:
-     [[https://github.com/UniMath/UniMath/pull/824][Categories from Preorders]],
-     [[https://github.com/UniMath/UniMath/pull/840][Posets are Univalent]],
-     [[https://github.com/UniMath/UniMath/pull/855][Functor Coalgebras]] and
-     [[https://github.com/UniMath/UniMath/pull/1206][Non-wellfounded trees]].
+   - Addition to the [[https://github.com/UniMath/UniMath][UniMath]] library: [[https://github.com/UniMath/UniMath/pull/824][Categories from Preorders]],
+     [[https://github.com/UniMath/UniMath/pull/840][Posets are Univalent]], [[https://github.com/UniMath/UniMath/pull/855][Functor Coalgebras]] and [[https://github.com/UniMath/UniMath/pull/1206][Non-wellfounded
+     trees]].
 
 * Contact
 - Office 4C15, ITU
