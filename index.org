@@ -39,7 +39,9 @@ creating type systems for reactive programming.
      Copenhagen, 2015.
 ** Talks
    - Simply RaTT: A Fitch-style Modal Calculus for Reactive
-     Programming without Leaks, ICFP 2019, [[https://www.youtube.com/watch?v=PnzsMKJivsk][video]]
+     Programming, HOPE 2020, [[file:hope20.pdf][PDF]]
+   - Simply RaTT: A Fitch-style Modal Calculus for Reactive
+     Programming without Leaks, ICFP 2019, [[https://www.youtube.com/watch?v=PnzsMKJivsk][video]], [[file:icfp2019.pdf][PDF]]
    - Simply RaTT: A Fitch-style Modal Calculus for Reactive
      Programming without Leaks, TYPES 2019, [[file:Types2019.pdf][PDF]]
 ** Academic Service:
