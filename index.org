@@ -47,7 +47,9 @@ mathematics and foundations of mathematics.
      Programming without Leaks, ICFP 2019, [[https://www.youtube.com/watch?v=PnzsMKJivsk][video]], [[file:icfp2019.pdf][PDF]]
    - Simply RaTT: A Fitch-style Modal Calculus for Reactive
      Programming without Leaks, TYPES 2019, [[file:Types2019.pdf][PDF]]
-** Academic Service
+** Academic Service 
+   - Sub-reviewer, Conference on Systems, Programming, Languages and
+     Applications: Software for Humanity 2020
    - Sub-reviewer, The International Conference on Functional
      Programming 2020.
    - Board and steering committee member, PhD Council, IT University
