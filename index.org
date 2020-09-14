@@ -72,6 +72,8 @@ mathematics and foundations of mathematics.
    - Visiting PhD Student at Cambridge Universty. Hosted by Neel
      Krishnaswami. Winter 2018.
 ** Teaching Experience
+   - Supervision of independent study project.
+     + Formal Logic and Proofs in Computer Science, BSc, Spring 2019.
    - Foundations of Computing - Discrete Mathematics BSc, 2018.
      + Guest lecture, TA, responsible for organising TAs.
    - Foundations of Computing - Discrete Mathematics BSc, 2017.
