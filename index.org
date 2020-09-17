@@ -41,6 +41,9 @@ mathematics and foundations of mathematics.
      Expressions as Types/. Bachelor Thesis, University of
      Copenhagen, 2015.
 ** Talks
+   - Sketches of a RaTT: Fitch-style Modal Calculi for Reactive
+     Programming, Invited Talk at the Logic and Semantics
+     group. Aarhus University, 2020, [[file:aarhus2020.pdf][PDF]]
    - Simply RaTT: A Fitch-style Modal Calculus for Reactive
      Programming, HOPE 2020, [[file:hope20.pdf][PDF]]
    - Simply RaTT: A Fitch-style Modal Calculus for Reactive
