@@ -32,10 +32,12 @@ mathematics and foundations of mathematics.
 
 * Academic
 ** Papers
-   - P. Bahr, C. Graulund and R.E. Møgelberg: /Diamonds are not forever: Liveness in Reactive Programming with Guarded Recursion/.  Submitted to POPL20. [[https://arxiv.org/abs/2003.03170][arXiv]]
+   - C. Graulund, D. Szamozvancev and N. Krishnaswami: /Adjoint
+     Reactive GUI/. Submitted to FoSSaCS 2021. [[https://arxiv.org/abs/2010.12338][arXiv]]
+   - P. Bahr, C. Graulund and R.E. Møgelberg: /Diamonds are not
+     forever: Liveness in Reactive Programming with Guarded Recursion/. Conditionally accepted for POPL 2021. [[https://arxiv.org/abs/2003.03170][arXiv]]
    - P. Bahr, C. Graulund and R.E. Møgelberg: /Simply RaTT: A
-     Fitch-style Modal Calculus for Reactive Programming/.  Published
-     at ICFP 2019. [[http:arxiv.org/abs/1903.05879][arXiv]]
+     Fitch-style Modal Calculus for Reactive Programming/. ICFP 2019. [[http:arxiv.org/abs/1903.05879][arXiv]]
 ** Dissertations
    - C. Graulund: /Lambda Calculus for Reactive Programming/. Master
      Thesis, IT University of Copenhagen, 2018.
