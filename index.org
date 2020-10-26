@@ -22,11 +22,13 @@
 #+LATEX_HEADER:
 
 * Bio
-I am a PhD student at ITU as part of the [[http:pls.itu.dk][Programming, Logic and
-Semantics Group]]. I work on creating type systems for reactive
-programming. My research interest includes reactive programming,
-formal logic, category theory, formalized mathematics, constructive
-mathematics and foundations of mathematics.
+I am a PhD student at ITU as part of the
+[[http:pls.itu.dk][Programming, Logic and Semantics Group]]. My
+supervisor is [[https://www.itu.dk/~mogel/][Rasmus Møgelberg]]. I work on creating type systems and
+semantics for reactive programming. My research interest includes
+reactive programming, formal logic, category theory, formalized
+mathematics, constructive mathematics and foundations of
+mathematics. 
 
 #+TOC: headlines 2
 
